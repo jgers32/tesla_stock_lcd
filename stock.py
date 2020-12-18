@@ -1,4 +1,3 @@
 #https://github.com/twelvedata/twelvedata-python 
 
-#using twelve data api to get real time stock data- library looks extremely easy to use!
-#this file just simply prints the TSLA statistics right onto the shell-look to TSLA_lcd.py for the complete and final project, as it all it together
+#using twelve data api to get real time stock data- note that the basic plan only makes 12 requests per minute (every 5 secs)
