@@ -24,4 +24,3 @@ if __name__ = "__main__":
 	ws.run_forever()
 								 
 #API TOKEN  =  your free api token from your finnhub account 
-#note that this program runs forever, you can specify times more custom to your own needs
