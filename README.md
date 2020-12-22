@@ -1,4 +1,4 @@
-# Realtime Tesla Stock Price Display
+# Realtime Display of Tesla Stock Price
 
 a real time $TSLA stock price display using a raspberry pi zero w, breadboard, and 1602 lcd display. 
 
