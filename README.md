@@ -1,9 +1,9 @@
 # Realtime Display of Tesla Stock Price
 <img src="$TSLA Stock Display.jpg" alt="Tesla Display Picture">
 
-a real time $TSLA stock price display using a raspberry pi zero w, breadboard, and 1602 lcd display. 
+I made the ^above $TSLA stock price display by using a raspberry pi zero w, a breadboard, and a 1602 lcd display. 
 
-i am a $TSLA shareholder and believe very strongly in their mission, so i just wanted to connect my two interests and build a project to display the stock price in real time so i can just simply glance over and see what it was at. 
+I am a $TSLA shareholder and believe very strongly in their mission, so I just wanted to connect my two interests and build a project to display the stock price in real time so that I would just glance over and see the price. 
 
 <a href="mailto:juliagersey@gmail.com">Contact me</a> if you have any further questions!
 
