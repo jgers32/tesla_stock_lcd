@@ -1,5 +1,5 @@
 #this code sets up the lcd and prints a simple message out onto it
-
+#gathered some inspiration and learned from:
 #https://www.mbtechworks.com/projects/drive-an-lcd-16x2-display-with-raspberry-pi.html
 
 import RPi.GPIO as GPIO
